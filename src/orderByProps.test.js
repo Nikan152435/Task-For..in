@@ -1,5 +1,5 @@
 import orderByProps from './orderByProps';
-import { expect } from 'jest';
+
 
 test('checking the function', () => {
   const obj = {
